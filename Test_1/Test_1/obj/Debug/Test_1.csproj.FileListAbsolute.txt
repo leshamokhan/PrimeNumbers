@@ -1,0 +1,10 @@
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\bin\Debug\Test_1.exe.config
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\bin\Debug\Test_1.exe
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\bin\Debug\Test_1.pdb
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\obj\Debug\Test_1.csprojResolveAssemblyReference.cache
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\obj\Debug\Test_1.Form1.resources
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\obj\Debug\Test_1.Properties.Resources.resources
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\obj\Debug\Test_1.csproj.GenerateResource.cache
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\obj\Debug\Test_1.exe
+C:\Users\leshka\Desktop\ТЕСТОВОЕ\1\Test_1\Test_1\obj\Debug\Test_1.pdb
